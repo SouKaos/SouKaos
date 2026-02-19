@@ -9,13 +9,17 @@ Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou
         <img 
             alt="LinkedIn" 
             title="Meu LinkedIn" 
+            width="30px" 
+            style="padding-right: 10px;" 
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0bGEl9v47XieEtHyj0TqTr1tOXJmib-KHtw&s"
         />
     </a>
     <a href="INSERIR LINK DO INSTAGRAM PROFISSIONAL">
         <img 
             alt="Instagram" 
-            title="Meu Instagram" 
+            title="Meu Instagram"
+            width="30px" 
+            style="padding-right: 10px;" 
             src="https://unblast.com/wp-content/uploads/2025/07/instagram-logo-colored.jpg"
         />
     </a> 
