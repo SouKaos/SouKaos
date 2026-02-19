@@ -7,8 +7,8 @@ Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou
 <img 
     align="center" 
     alt="aaa"
-    title="Bem-vindo" 
-    width="40%"  
+    title="Bem-vindo"
+    style="max-width:30%;height:auto;"
     src="https://i.pinimg.com/originals/74/0a/ab/740aabadfd83f22183aacf988ad3a25b.gif" 
 />
 
