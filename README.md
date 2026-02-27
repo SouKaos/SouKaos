@@ -1,4 +1,5 @@
 # 👩🏻‍💻 Kauã Souza
+<h1 style="color: white;">👩🏻‍💻 Olá, eu sou o Kauas 👋</h1>
 
 **`Aspirante a FullStack`**
 
@@ -16,8 +17,6 @@ Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou
     border-radius: 15px;
     max-width: 800px;
   ">
-
-  <h1 style="color: white;">Olá, eu sou o Kauas 👋</h1>
 
 <p style="color: #ddd; font-size: 18px;">
 Desenvolvedor focado em React, TypeScript, Firebase e Backend com Node.js.
