@@ -4,8 +4,25 @@
 
 Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação no IFBaiano Campus Itapetinga. Gosto de pensar que o futuro é agora e vivo me surpreendendo com o que a tecnologia tem a oferecer, e sonho em poder contribuir para esse avanço.
 
-<body style="font-family: Arial, Helvetica, sans-serif;color: rgb(71, 66, 64);background-color: white; background-image: url(https://www.pngplay.com/wp-content/uploads/11/Pikachu-Pokemon-Transparent-Images.png);background-repeat: no-repeat;background-size: 400px;background-attachment: fixed;background-position-x: -90px;background-position-y: bottom;">
-    
+<div align="center" style="
+  background-image: url('https://i.imgur.com/SEU_BACKGROUND.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px 20px;
+  border-radius: 15px;">
+  <div style="
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 40px;
+    border-radius: 15px;
+    max-width: 800px;
+  ">
+
+  <h1 style="color: white;">Olá, eu sou o Kauas 👋</h1>
+
+<p style="color: #ddd; font-size: 18px;">
+Desenvolvedor focado em React, TypeScript, Firebase e Backend com Node.js.
+</p>
+
 <img 
     align="center" 
     alt="aaa"
