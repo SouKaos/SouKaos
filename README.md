@@ -1,24 +1,8 @@
-<div style="
-  background-image: url(https://i.pinimg.com/736x/70/82/17/708217ed0d7af3d647dbce483aa15292.jpg);
-  background-size: cover;
-  background-position: center;
-  padding: 60px;
-"> abc def
-</div>
-
 <h1 style="color: white;">👩🏻‍💻 Olá, eu sou o Kauas 👋</h1>
 
 **`Aspirante a FullStack`**
 
 Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação no IFBaiano Campus Itapetinga. Gosto de pensar que o futuro é agora e vivo me surpreendendo com o que a tecnologia tem a oferecer, e sonho em poder contribuir para esse avanço.
-
-<img 
-    align="center" 
-    alt="aaa"
-    title="Bem-vindo"
-    style="max-width:30%;height:auto;"
-    src="https://i.pinimg.com/originals/74/0a/ab/740aabadfd83f22183aacf988ad3a25b.gif" 
-/>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/kau%C3%A3-souza-50714b3b2/">
