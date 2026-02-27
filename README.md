@@ -1,5 +1,5 @@
 <div style="
-  background-image: url('https://i.imgur.com/SEU_BACKGROUND.jpg');
+  background-image: linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)),url(https://i.pinimg.com/736x/70/82/17/708217ed0d7af3d647dbce483aa15292.jpg);
   background-size: cover;
   background-position: center;
   padding: 60px;
