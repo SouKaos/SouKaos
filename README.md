@@ -4,6 +4,8 @@
 
 Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação no IFBaiano Campus Itapetinga. Gosto de pensar que o futuro é agora e vivo me surpreendendo com o que a tecnologia tem a oferecer, e sonho em poder contribuir para esse avanço.
 
+<body style="font-family: Arial, Helvetica, sans-serif;color: rgb(71, 66, 64);background-color: white; background-image: url(https://www.pngplay.com/wp-content/uploads/11/Pikachu-Pokemon-Transparent-Images.png);background-repeat: no-repeat;background-size: 400px;background-attachment: fixed;background-position-x: -90px;background-position-y: bottom;">
+    
 <img 
     align="center" 
     alt="aaa"
@@ -66,3 +68,4 @@ Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou
 <br/>
 
 </p>
+</body>
