@@ -1,4 +1,3 @@
-# 👩🏻‍💻 Kauã Souza
 <h1 style="color: white;">👩🏻‍💻 Olá, eu sou o Kauas 👋</h1>
 
 **`Aspirante a FullStack`**
@@ -6,7 +5,7 @@
 Me chamo Kauã S. Souza, tenho 22 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação no IFBaiano Campus Itapetinga. Gosto de pensar que o futuro é agora e vivo me surpreendendo com o que a tecnologia tem a oferecer, e sonho em poder contribuir para esse avanço.
 
 <div align="center" style="
-  background-image: url('https://i.imgur.com/SEU_BACKGROUND.jpg');
+  background-image: url('https://a-static.mlcdn.com.br/%7Bw%7Dx%7Bh%7D/fundo-fotografico-em-tecido-floresta-verde-280x150-mix-estilos/olistplus/o2egaepwt5qzsp0i/ff5389552fe86b65fae4f559ecfd1cf3.jpeg');
   background-size: cover;
   background-position: center;
   padding: 60px 20px;
