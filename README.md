@@ -1,3 +1,11 @@
+<div style="
+  background-image: url('https://i.imgur.com/SEU_BACKGROUND.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 60px;
+"> abc def
+</div>
+
 <h1 style="color: white;">👩🏻‍💻 Olá, eu sou o Kauas 👋</h1>
 
 **`Aspirante a FullStack`**
